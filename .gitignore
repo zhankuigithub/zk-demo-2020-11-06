@@ -1,1 +1,4 @@
-one.txt
+*.iml
+/target
+/.idea
+/logs/
